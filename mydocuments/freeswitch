@@ -1,4 +1,4 @@
 
 install--The git remote can't be used because of the google stoped by china cov. And u can get it from "wget http://files.freeswitch.org/..........".
 
-rpc--Need apach-xmlrpc and ws-commons-util.
+rpc--Need two packets that r apach-xmlrpc and ws-commons-util.

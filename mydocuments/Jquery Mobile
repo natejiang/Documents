@@ -1,0 +1,2 @@
+Don't use "(#BTN).click(function(){})", it seems that the method "click" has been rewrote by jqm.
+So u should use "(#BTN).on/bind("click",function(){})".
